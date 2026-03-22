@@ -1,4 +1,4 @@
-# 🍽️ Cognifyz ML Internship - Task 4
+# 🍽️ Cognifyz ML Internship - Task 
 
 ## 📌 Project: Location-Based Restaurant Analysis
 
