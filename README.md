@@ -1,24 +1,24 @@
-# 🍽️ Cognifyz ML Internship - Task 
+# Cognifyz ML Internship - Task 
 
-## 📌 Project: Location-Based Restaurant Analysis
+##  Project: Location-Based Restaurant Analysis
 
-### 🎯 Objective
+###  Objective
 
 Analyze restaurant locations using latitude and longitude coordinates and visualize their distribution using an interactive map.
 
 ---
 
-## 📊 Features
+##  Features
 
-* 🌍 Interactive map using Folium
-* 📍 Marker clustering for better visualization
-* 🧹 Dataset preprocessing (handling missing values)
-* 🌐 Automatic browser display of map
-* 📊 Basic city-wise analysis
+*  Interactive map using Folium
+*  Marker clustering for better visualization
+*  Dataset preprocessing (handling missing values)
+*  Automatic browser display of map
+*  Basic city-wise analysis
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cognifyz-ml-internship/
@@ -38,15 +38,15 @@ cognifyz-ml-internship/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-### 1️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the project
+###  Run the project
 
 ```bash
 python src/task4_location_analysis.py
@@ -54,7 +54,7 @@ python src/task4_location_analysis.py
 
 ---
 
-## 📍 Output
+##  Output
 
 * Interactive restaurant map saved in:
 
@@ -64,7 +64,7 @@ outputs/restaurant_map.html
 
 ---
 
-## 🔍 Insights
+##  Insights
 
 * Restaurants are highly concentrated in major cities
 * Location significantly influences restaurant popularity
@@ -73,22 +73,22 @@ outputs/restaurant_map.html
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* Python 🐍
+* Python 
 * Pandas
 * Folium
 * VS Code
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Gourab Barui**
 M.Tech Data Science (2025-2027)
 
 ---
 
-## 🔗 Acknowledgement
+## Acknowledgement
 
 This project is part of the **Cognifyz Machine Learning Internship Program**, focusing on real-world data analysis and machine learning applications.
